@@ -3,3 +3,6 @@ print(head(random_numbers))
 
 mean_value <- mean(random_numbers)
 print(mean_value)
+
+sd_value <- sd(random_numbers)
+print(sd_value)
